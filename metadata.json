@@ -1,0 +1,5 @@
+{
+  "name": "ABAP Code Generator",
+  "description": "An AI-powered web application that generates ABAP code based on user-defined specifications for input parameters, output parameters, and table operations. Helps accelerate SAP development.",
+  "requestFramePermissions": []
+}
